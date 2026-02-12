@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Budding!",
+  "base_artist": "にじさんじ",
+  "createdAt": "2026-02-12T06:50:23.363243Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who's Gonna Take Me Home [The Rise and Fall of a Budding Gigolo]",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/01_Who's_Gonna_Take_Me_Home_[The_Rise_and_Fall_of_a_Budding_Gigolo]_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Budding Trees",
+      "artist": "Nahko & Medicine for the People",
+      "has_synced": true,
+      "path": "select/02_Budding_Trees_Nahko_&_Medicine_for_the_People.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Budding Trees",
+      "artist": "Nahko and Medicine for the People",
+      "has_synced": true,
+      "path": "select/03_Budding_Trees_Nahko_and_Medicine_for_the_People.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scentless Core (Budding)",
+      "artist": "Wilderun",
+      "has_synced": false,
+      "path": "select/04_Scentless_Core_(Budding)_Wilderun.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who's Gonna Take Me Home (The Rise And Fall Of A Budding Gigilo)",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/05_Who's_Gonna_Take_Me_Home_(The_Rise_And_Fall_Of_A_Budding_Gigilo)_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who's Gonna Take Me Home (The Rise and Fall of a Budding Gigolo)",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/06_Who's_Gonna_Take_Me_Home_(The_Rise_and_Fall_of_a_Budding_Gigolo)_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who`s Gonna Take Me Home (the Rise And Fall Of A Budding Gigolo)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/07_Who`s_Gonna_Take_Me_Home_(the_Rise_And_Fall_Of_A_Budding_Gigolo)_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who's Gonna Take Me Home (The Rise and Fall of a Budding Gigolo)",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/08_Who's_Gonna_Take_Me_Home_(The_Rise_and_Fall_of_a_Budding_Gigolo)_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who’s Gonna Take Me Home (The Rise and Fall of a Budding Gigolo)",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/09_Who’s_Gonna_Take_Me_Home_(The_Rise_and_Fall_of_a_Budding_Gigolo)_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Budding Romance",
+      "artist": "Carson James Argenna",
+      "has_synced": true,
+      "path": "select/10_Budding_Romance_Carson_James_Argenna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scentless Core – Budding",
+      "artist": "Wilderun",
+      "has_synced": false,
+      "path": "select/11_Scentless_Core_–_Budding_Wilderun.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Who’s Gonna Take Me Home (The Rise and Fall of a Budding Gigilo)",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/12_Who’s_Gonna_Take_Me_Home_(The_Rise_and_Fall_of_a_Budding_Gigilo)_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who's Gonna Take Me Home (The Rise and Fall of a Budding Gigolo) (The Rise And Fall Of A Budding Gigolo)",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/13_Who's_Gonna_Take_Me_Home_(The_Rise_and_Fall_of_a_Budding_Gigolo)_(The_Rise_And_F_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who's Gonna Take Me Home (The Rise And Fall Of A Budding Gigolo)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/14_Who's_Gonna_Take_Me_Home_(The_Rise_And_Fall_Of_A_Budding_Gigolo)_Rod_Stewart.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Budding!",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_01_Budding!_にじさんじ.txt"
+    }
+  ]
+}
